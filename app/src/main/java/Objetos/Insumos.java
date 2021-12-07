@@ -2,9 +2,9 @@ package Objetos;
 
 public class Insumos {
     private int id;
-    private String[] insumos={"mancuernas","pesas 5kg","barras"};
-    private int[] precios={5000,3000,1000};
-    private int[] stock={20,32,16};
+    private String[] insumos={"mancuernas","pesas 5kg","barras","pesas 10kg"};
+    private int[] precios={5000,3000,1000,7000};
+    private int[] stock={20,32,16,25};
 
     public Insumos (){
 
